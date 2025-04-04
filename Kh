@@ -24,3 +24,256 @@ https://stream.ichibantv.com:3547/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="" goup-title="",Animes"", Anime tv
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="[BR] A&E FHD" tvg-logo="" group-title="BRAZIL",[BR] A&E FHD
+http://supersonictv.live:8080/968896/903421/84935
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Animal Planet FHD" tvg-logo="" group-title="BRAZIL",[BR] Animal Planet FHD
+http://supersonictv.live:8080/968896/903421/84936
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Arte 1 FHD" tvg-logo="" group-title="BRAZIL",[BR] Arte 1 FHD
+http://supersonictv.live:8080/968896/903421/84937
+#EXTINF:-1 tvg-id="" tvg-name="[BR] AXN FHD" tvg-logo="" group-title="BRAZIL",[BR] AXN FHD
+http://supersonictv.live:8080/968896/903421/84938
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Baby FHD" tvg-logo="" group-title="BRAZIL",[BR] Baby FHD
+http://supersonictv.live:8080/968896/903421/84939
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Band FHD" tvg-logo="" group-title="BRAZIL",[BR] Band FHD
+http://supersonictv.live:8080/968896/903421/84940
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Band News FHD" tvg-logo="" group-title="BRAZIL",[BR] Band News FHD
+http://supersonictv.live:8080/968896/903421/84941
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Band Sports FHD" tvg-logo="" group-title="BRAZIL",[BR] Band Sports FHD
+http://supersonictv.live:8080/968896/903421/84942
+#EXTINF:-1 tvg-id="" tvg-name="[BR] BIS FHD" tvg-logo="" group-title="BRAZIL",[BR] BIS FHD
+http://supersonictv.live:8080/968896/903421/84943
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Boomerang FHD" tvg-logo="" group-title="BRAZIL",[BR] Boomerang FHD
+http://supersonictv.live:8080/968896/903421/84944
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Canal Brasil FHD" tvg-logo="" group-title="BRAZIL",[BR] Canal Brasil FHD
+http://supersonictv.live:8080/968896/903421/84945
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Cartoon Network FHD" tvg-logo="" group-title="BRAZIL",[BR] Cartoon Network FHD
+http://supersonictv.live:8080/968896/903421/84946
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Chef TV FHD" tvg-logo="" group-title="BRAZIL",[BR] Chef TV FHD
+http://supersonictv.live:8080/968896/903421/84947
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Cinemax FHD" tvg-logo="" group-title="BRAZIL",[BR] Cinemax FHD
+http://supersonictv.live:8080/968896/903421/84948
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Cinemax HD" tvg-logo="" group-title="BRAZIL",[BR] Cinemax HD
+http://supersonictv.live:8080/968896/903421/84949
+#EXTINF:-1 tvg-id="" tvg-name="[BR] CNN Brasil FHD" tvg-logo="" group-title="BRAZIL",[BR] CNN Brasil FHD
+http://supersonictv.live:8080/968896/903421/84950
+#EXTINF:-1 tvg-id="" tvg-name="[BR] CNN Espanhol HD" tvg-logo="" group-title="BRAZIL",[BR] CNN Espanhol HD
+http://supersonictv.live:8080/968896/903421/84951
+#EXTINF:-1 tvg-id="" tvg-name="[BR] CNN Internacional FHD" tvg-logo="" group-title="BRAZIL",[BR] CNN Internacional FHD
+http://supersonictv.live:8080/968896/903421/84952
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Combate FHD" tvg-logo="" group-title="BRAZIL",[BR] Combate FHD
+http://supersonictv.live:8080/968896/903421/84953
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Comedy Central FHD" tvg-logo="" group-title="BRAZIL",[BR] Comedy Central FHD
+http://supersonictv.live:8080/968896/903421/84954
+#EXTINF:-1 tvg-id="" tvg-name="[BR] COPA CATARINENSE *" tvg-logo="" group-title="BRAZIL",[BR] COPA CATARINENSE *
+http://supersonictv.live:8080/968896/903421/84955
+#EXTINF:-1 tvg-id="" tvg-name="[BR] COPA CATARINENSE 2 *" tvg-logo="" group-title="BRAZIL",[BR] COPA CATARINENSE 2 *
+http://supersonictv.live:8080/968896/903421/84956
+#EXTINF:-1 tvg-id="" tvg-name="[BR] COPA CATARINENSE 2 HD *" tvg-logo="" group-title="BRAZIL",[BR] COPA CATARINENSE 2 HD *
+http://supersonictv.live:8080/968896/903421/84957
+#EXTINF:-1 tvg-id="" tvg-name="[BR] COPA CATARINENSE HD *" tvg-logo="" group-title="BRAZIL",[BR] COPA CATARINENSE HD *
+http://supersonictv.live:8080/968896/903421/84958
+#EXTINF:-1 tvg-id="" tvg-name="[BR] COPA DO NORDESTE *" tvg-logo="" group-title="BRAZIL",[BR] COPA DO NORDESTE *
+http://supersonictv.live:8080/968896/903421/84959
+#EXTINF:-1 tvg-id="" tvg-name="[BR] COPA DO NORDESTE 2 *" tvg-logo="" group-title="BRAZIL",[BR] COPA DO NORDESTE 2 *
+http://supersonictv.live:8080/968896/903421/84960
+#EXTINF:-1 tvg-id="" tvg-name="[BR] COPA DO NORDESTE 2 HD *" tvg-logo="" group-title="BRAZIL",[BR] COPA DO NORDESTE 2 HD *
+http://supersonictv.live:8080/968896/903421/84961
+#EXTINF:-1 tvg-id="" tvg-name="[BR] COPA DO NORDESTE HD *" tvg-logo="" group-title="BRAZIL",[BR] COPA DO NORDESTE HD *
+http://supersonictv.live:8080/968896/903421/84962
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Curta! FHD" tvg-logo="" group-title="BRAZIL",[BR] Curta! FHD
+http://supersonictv.live:8080/968896/903421/84963
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Channel FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Channel FHD
+http://supersonictv.live:8080/968896/903421/84966
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Home & Health FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Home & Health FHD
+http://supersonictv.live:8080/968896/903421/84967
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery ID FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery ID FHD
+http://supersonictv.live:8080/968896/903421/84968
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Kids FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Kids FHD
+http://supersonictv.live:8080/968896/903421/84969
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Science FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Science FHD
+http://supersonictv.live:8080/968896/903421/84970
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Theather FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Theather FHD
+http://supersonictv.live:8080/968896/903421/84971
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Turbo FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Turbo FHD
+http://supersonictv.live:8080/968896/903421/84972
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery World FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery World FHD
+http://supersonictv.live:8080/968896/903421/84973
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Disney Channel FHD" tvg-logo="" group-title="BRAZIL",[BR] Disney Channel FHD
+http://supersonictv.live:8080/968896/903421/84974
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Disney JR FHD" tvg-logo="" group-title="BRAZIL",[BR] Disney JR FHD
+http://supersonictv.live:8080/968896/903421/84975
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Disney XD FHD" tvg-logo="" group-title="BRAZIL",[BR] Disney XD FHD
+http://supersonictv.live:8080/968896/903421/84976
+#EXTINF:-1 tvg-id="" tvg-name="[BR] E! FHD" tvg-logo="" group-title="BRAZIL",[BR] E! FHD
+http://supersonictv.live:8080/968896/903421/84977
+#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN 2 FHD" tvg-logo="" group-title="BRAZIL",[BR] ESPN 2 FHD
+http://supersonictv.live:8080/968896/903421/84978
+#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN Brasil FHD" tvg-logo="" group-title="BRAZIL",[BR] ESPN Brasil FHD
+http://supersonictv.live:8080/968896/903421/84979
+#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN Extra FHD" tvg-logo="" group-title="BRAZIL",[BR] ESPN Extra FHD
+http://supersonictv.live:8080/968896/903421/84980
+#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN FHD" tvg-logo="" group-title="BRAZIL",[BR] ESPN FHD
+http://supersonictv.live:8080/968896/903421/84981
+#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPORTE INTERATIVO *" tvg-logo="" group-title="BRAZIL",[BR] ESPORTE INTERATIVO *
+http://supersonictv.live:8080/968896/903421/84982
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Fish TV FHD" tvg-logo="" group-title="BRAZIL",[BR] Fish TV FHD
+http://supersonictv.live:8080/968896/903421/84983
+#EXTINF:-1 tvg-id="" tvg-name="[BR] FlaTV TESTE" tvg-logo="" group-title="BRAZIL",[BR] FlaTV TESTE
+http://supersonictv.live:8080/968896/903421/84984
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Food Network FHD" tvg-logo="" group-title="BRAZIL",[BR] Food Network FHD
+http://supersonictv.live:8080/968896/903421/84985
+#EXTINF:-1 tvg-id="" tvg-name="[BR] FOX FHD" tvg-logo="" group-title="BRAZIL",[BR] FOX FHD
+http://supersonictv.live:8080/968896/903421/84986
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Life FHD" tvg-logo="" group-title="BRAZIL",[BR] Fox Life FHD
+http://supersonictv.live:8080/968896/903421/84987
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox News FHD" tvg-logo="" group-title="BRAZIL",[BR] Fox News FHD
+http://supersonictv.live:8080/968896/903421/84988
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Premium 1 FHD" tvg-logo="" group-title="BRAZIL",[BR] Fox Premium 1 FHD
+http://supersonictv.live:8080/968896/903421/84989
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Premium 2 FHD" tvg-logo="" group-title="BRAZIL",[BR] Fox Premium 2 FHD
+http://supersonictv.live:8080/968896/903421/84990
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Sport HD" tvg-logo="" group-title="BRAZIL",[BR] Fox Sport HD
+http://supersonictv.live:8080/968896/903421/84991
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Sports 2 FHD" tvg-logo="" group-title="BRAZIL",[BR] Fox Sports 2 FHD
+http://supersonictv.live:8080/968896/903421/84992
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Sports FHD" tvg-logo="" group-title="BRAZIL",[BR] Fox Sports FHD
+http://supersonictv.live:8080/968896/903421/84993
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Sports SD" tvg-logo="" group-title="BRAZIL",[BR] Fox Sports SD
+http://supersonictv.live:8080/968896/903421/84994
+#EXTINF:-1 tvg-id="" tvg-name="[BR] FX FHD" tvg-logo="" group-title="BRAZIL",[BR] FX FHD
+http://supersonictv.live:8080/968896/903421/84995
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo TV Brasilia HD" tvg-logo="" group-title="BRAZIL",[BR] Globo TV Brasilia HD
+http://supersonictv.live:8080/968896/903421/84996
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo Centro America FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo Centro America FHD
+http://supersonictv.live:8080/968896/903421/84997
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo EPTV Campinas FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo EPTV Campinas FHD
+http://supersonictv.live:8080/968896/903421/84998
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO EPTV CAMPINAS SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO EPTV CAMPINAS SD#
+http://supersonictv.live:8080/968896/903421/84999
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO EPTV RIBEIRÃƒO PRETO SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO EPTV RIBEIRÃƒO PRETO SD#
+http://supersonictv.live:8080/968896/903421/85000
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo EPTV Sul de Minas FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo EPTV Sul de Minas FHD
+http://supersonictv.live:8080/968896/903421/85001
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO INTER TV CABUGI SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO INTER TV CABUGI SD#
+http://supersonictv.live:8080/968896/903421/85002
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo Inter TV Grande Minas FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo Inter TV Grande Minas FHD
+http://supersonictv.live:8080/968896/903421/85003
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo Minas FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo Minas FHD
+http://supersonictv.live:8080/968896/903421/85004
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo News FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo News FHD
+http://supersonictv.live:8080/968896/903421/85005
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo Nordeste FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo Nordeste FHD
+http://supersonictv.live:8080/968896/903421/85006
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo NSC Florianopolis FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo NSC Florianopolis FHD
+http://supersonictv.live:8080/968896/903421/85007
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO RBS PORTO ALEGRE SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO RBS PORTO ALEGRE SD#
+http://supersonictv.live:8080/968896/903421/85008
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO RBS TV POA FHD" tvg-logo="" group-title="BRAZIL",[BR] GLOBO RBS TV POA FHD
+http://supersonictv.live:8080/968896/903421/85009
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO REDE AMAZÃ”NICA MANAUS SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO REDE AMAZÃ”NICA MANAUS SD#
+http://supersonictv.live:8080/968896/903421/85010
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO RIO HD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO RIO HD#
+http://supersonictv.live:8080/968896/903421/85011
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo RJ FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo RJ FHD
+http://supersonictv.live:8080/968896/903421/85012
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo RPC Curitiba FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo RPC Curitiba FHD
+http://supersonictv.live:8080/968896/903421/85013
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo RPC Foz do Iguaçu FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo RPC Foz do Iguaçu FHD
+http://supersonictv.live:8080/968896/903421/85014
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO SP FHD" tvg-logo="" group-title="BRAZIL",[BR] GLOBO SP FHD
+http://supersonictv.live:8080/968896/903421/85015
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo TV Anhanguera  SD" tvg-logo="" group-title="BRAZIL",[BR] Globo TV Anhanguera  SD
+http://supersonictv.live:8080/968896/903421/85016
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO TV ANHANGUERA GOIÃ‚NIA SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO TV ANHANGUERA GOIÃ‚NIA SD#
+http://supersonictv.live:8080/968896/903421/85017
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo TV Bahia FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo TV Bahia FHD
+http://supersonictv.live:8080/968896/903421/85018
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo TV Belem FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo TV Belem FHD
+http://supersonictv.live:8080/968896/903421/85019
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo TV Brasilia FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo TV Brasilia FHD
+http://supersonictv.live:8080/968896/903421/85020
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO TV LIBERAL BELEM SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO TV LIBERAL BELEM SD#
+http://supersonictv.live:8080/968896/903421/85021
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo TV Mirante FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo TV Mirante FHD
+http://supersonictv.live:8080/968896/903421/85022
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo TV Morena FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo TV Morena FHD
+http://supersonictv.live:8080/968896/903421/85023
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO TV TEM BAURU SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO TV TEM BAURU SD#
+http://supersonictv.live:8080/968896/903421/85024
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO TV TEM SOROCABA SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO TV TEM SOROCABA SD#
+http://supersonictv.live:8080/968896/903421/85025
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO TV TRIBUNA SANTOS SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO TV TRIBUNA SANTOS SD#
+http://supersonictv.live:8080/968896/903421/85026
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GLOBO TV VANGUARDA SÃƒO JOSÃ‰ DOS CAMPOS SD#" tvg-logo="" group-title="BRAZIL",[BR] GLOBO TV VANGUARDA SÃƒO JOSÃ‰ DOS CAMPOS SD#
+http://supersonictv.live:8080/968896/903421/85027
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Globo TV Verdes Mares FHD" tvg-logo="" group-title="BRAZIL",[BR] Globo TV Verdes Mares FHD
+http://supersonictv.live:8080/968896/903421/85028
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GloboTV Anhanguera FHD" tvg-logo="" group-title="BRAZIL",[BR] GloboTV Anhanguera FHD
+http://supersonictv.live:8080/968896/903421/85029
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Gloob FHD" tvg-logo="" group-title="BRAZIL",[BR] Gloob FHD
+http://supersonictv.live:8080/968896/903421/85030
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Gloobinho FHD" tvg-logo="" group-title="BRAZIL",[BR] Gloobinho FHD
+http://supersonictv.live:8080/968896/903421/85031
+#EXTINF:-1 tvg-id="" tvg-name="[BR] GNT FHD" tvg-logo="" group-title="BRAZIL",[BR] GNT FHD
+http://supersonictv.live:8080/968896/903421/85032
+#EXTINF:-1 tvg-id="" tvg-name="[BR] H2 FHD" tvg-logo="" group-title="BRAZIL",[BR] H2 FHD
+http://supersonictv.live:8080/968896/903421/85033
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO 2 FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO 2 FHD
+http://supersonictv.live:8080/968896/903421/85034
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Family FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO Family FHD
+http://supersonictv.live:8080/968896/903421/85035
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO FHD
+http://supersonictv.live:8080/968896/903421/85036
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Mundi FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO Mundi FHD
+http://supersonictv.live:8080/968896/903421/85037
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Plus FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO Plus FHD
+http://supersonictv.live:8080/968896/903421/85038
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Pop FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO Pop FHD
+http://supersonictv.live:8080/968896/903421/85039
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Signature FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO Signature FHD
+http://supersonictv.live:8080/968896/903421/85040
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Xtreme FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO Xtreme FHD
+http://supersonictv.live:8080/968896/903421/85041
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HGTV FHD" tvg-logo="" group-title="BRAZIL",[BR] HGTV FHD
+http://supersonictv.live:8080/968896/903421/85042
+#EXTINF:-1 tvg-id="" tvg-name="[BR] i SAT FHD" tvg-logo="" group-title="BRAZIL",[BR] i SAT FHD
+http://supersonictv.live:8080/968896/903421/85043
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Inter TV dos Vales FHD" tvg-logo="" group-title="BRAZIL",[BR] Inter TV dos Vales FHD
+http://supersonictv.live:8080/968896/903421/85044
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Lifetime FHD" tvg-logo="" group-title="BRAZIL",[BR] Lifetime FHD
+http://supersonictv.live:8080/968896/903421/85045
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Mais Globosat FHD" tvg-logo="" group-title="BRAZIL",[BR] Mais Globosat FHD
+http://supersonictv.live:8080/968896/903421/85046
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Megapix FHD" tvg-logo="" group-title="BRAZIL",[BR] Megapix FHD
+http://supersonictv.live:8080/968896/903421/85047
+#EXTINF:-1 tvg-id="" tvg-name="[BR] MTV FHD" tvg-logo="" group-title="BRAZIL",[BR] MTV FHD
+http://supersonictv.live:8080/968896/903421/85048
+#EXTINF:-1 tvg-id="" tvg-name="[BR] MTV HD" tvg-logo="" group-title="BRAZIL",[BR] MTV HD
+http://supersonictv.live:8080/968896/903421/85049
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Multishow FHD" tvg-logo="" group-title="BRAZIL",[BR] Multishow FHD
+http://supersonictv.live:8080/968896/903421/85050
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Music Box Brasil FHD" tvg-logo="" group-title="BRAZIL",[BR] Music Box Brasil FHD
+http://supersonictv.live:8080/968896/903421/85051
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Natgeo FHD" tvg-logo="" group-title="BRAZIL",[BR] Natgeo FHD
+http://supersonictv.live:8080/968896/903421/85052
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Natgeo Kids FHD" tvg-logo="" group-title="BRAZIL",[BR] Natgeo Kids FHD
+http://supersonictv.live:8080/968896/903421/85053
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Natgeo Wild FHD" tvg-logo="" group-title="BRAZIL",[BR] Natgeo Wild FHD
+http://supersonictv.live:8080/968896/903421/85054
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Nick FHD" tvg-logo="" group-title="BRAZIL",[BR] Nick FHD
+http://supersonictv.live:8080/968896/903421/85055
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Nick JR FHD" tvg-logo="" group-title="BRAZIL",[BR] Nick JR FHD
+http://supersonictv.live:8080/968896/903421/85056
+#EXTINF:-1 tvg-id="" tvg-name="[BR] NSC TV Blumenau FHD" tvg-logo="" group-title="BRAZIL",[BR] NSC TV Blumenau FHD
+http://supersonictv.live:8080/968896/903421/85057
+#EXTINF:-1 tvg-id="" tvg-name="[BR] OFF FHD" tvg-logo="" group-title="BRAZIL",[BR] OFF FHD
+http://supersonictv.live:8080/968896/903421/85058
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Paramount Channel FHD" tvg-logo="" group-title="BRAZIL",[BR] Paramount Channel FHD
+http://supersonictv.live:8080/968896/903421/85059
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Play Kids HD" tvg-logo="" group-title="BRAZIL",[BR] Play Kids HD
+http://supersonictv.live:8080/968896/903421/85060
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Play TV FHD" tvg-logo="" group-title="BRAZIL",[BR] Play TV FHD
+http://supersonictv.live:8080/968896/903421/85061
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Premi
