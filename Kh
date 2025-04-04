@@ -27,3 +27,12 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" goup-title="",Animes"", Nick 
 http://supersonictv.live:8080/968896/903421/85055
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BRAZIL",Gloob HD
+http://supersonictv.live:8080/968896/903421/85030
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BRAZIL",Telecine Premium HD
+http://supersonictv.live:8080/968896/903421/85103
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Asa Branca FHD" tvg-logo="" group-title="BRAZIL",Globo TV Asa Branca HD
+http://supersonictv.live:8080/968896/903421/85201
